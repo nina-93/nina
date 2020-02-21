@@ -1,0 +1,57 @@
+p, li  {
+	color : black;
+	font-size: 16px;
+	margin-left: auto;
+
+  }
+
+ h2 {
+	
+	      color : black;
+		  font-size: 25px;
+          border : 2px solid  #17a589; 
+          background: #17a589;
+          font-style: bold; 		  
+	  }
+	
+	
+h6 { 
+    font-style: bold;
+    font-size: 20px;
+    color:   black;	
+	font-style: bold; 
+  }
+
+h5 {
+    font-style: bold;
+    font-size: 20px;
+    color:    #336633	;
+    margin:0;
+  }
+
+body{
+
+	margin:0;
+	background-color:  #bdc3c7   ;  
+}
+.photo{
+	float:right;
+	border : 10px solid  #bdc3c7;
+}
+
+.entete{
+	background: #17a589;
+	border : 20px solid  #17a589; }
+	
+.sous_entete
+{
+ font-style: bold;
+   font-size: 20px;
+border : 20px solid  #bdc3c7;
+background: #bdc3c7;}
+
+.page{
+	width: 1100px;
+	
+	
+}
